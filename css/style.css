@@ -1,5 +1,7 @@
 body{
-  background: url("images/Cabling.jpg") left center no-repeat, url("images/Cabling.jpg") right center no-repeat;
+  background:
+  url("../images/Cabling.jpg") left center no-repeat,
+  url("../images/Cabling.jpg") right center no-repeat;
   font-family: Helvetica, Arial, sans-serif;
 }
 
